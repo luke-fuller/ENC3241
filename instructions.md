@@ -6,13 +6,12 @@ title: Instructions
 # Instructions
 
 <object
-  data="[Revised Instructions - ENC.pdf](https://luke-fuller.github.io/ENC3241/Revised%20Instructions%20-%20ENC.pdf)"
+  data="https://luke-fuller.github.io/ENC3241/Revised%20Instructions%20-%20ENC.pdf"
   type="application/pdf"
   width="100%"
-  height="750px"
+  height="100%"
 >
   <p>
-    Your browser does not support PDFs. [Download the
-    PDF](https://github.com/user-attachments/files/26905265/Revised.Instructions.-.ENC.pdf) .
+    Your browser does not support PDFs. [Download the PDF](https://luke-fuller.github.io/ENC3241/Revised%20Instructions%20-%20ENC.pdf).
   </p>
 </object>
