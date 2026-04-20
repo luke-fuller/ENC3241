@@ -5,9 +5,14 @@ title: Instructions
 
 # Instructions
 
-<embed
-  src="[Revised Instructions - ENC.pdf](https://github.com/user-attachments/files/26905117/Revised.Instructions.-.ENC.pdf)"
+<object
+  data="[Revised Instructions - ENC.pdf](https://github.com/user-attachments/files/26905263/Revised.Instructions.-.ENC.pdf)"
   type="application/pdf"
   width="100%"
-  height="755px"
-/>
+  height="750px"
+>
+  <p>
+    Your browser does not support PDFs. [Download the
+    PDF]([Revised Instructions - ENC.pdf](https://github.com/user-attachments/files/26905265/Revised.Instructions.-.ENC.pdf)) .
+  </p>
+</object>
