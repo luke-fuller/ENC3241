@@ -5,6 +5,7 @@ title: Instructions
 
 # Instructions
 
+<div style="height:750px;">
 <object
   data="https://luke-fuller.github.io/ENC3241/Revised%20Instructions%20-%20ENC.pdf"
   type="application/pdf"
@@ -15,3 +16,4 @@ title: Instructions
     Your browser does not support PDFs. [Download the PDF](https://luke-fuller.github.io/ENC3241/Revised%20Instructions%20-%20ENC.pdf).
   </p>
 </object>
+</div>
