@@ -13,6 +13,6 @@ title: Instructions
 >
   <p>
     Your browser does not support PDFs. [Download the
-    PDF]([Revised Instructions - ENC.pdf](https://github.com/user-attachments/files/26905265/Revised.Instructions.-.ENC.pdf)) .
+    PDF](https://github.com/user-attachments/files/26905265/Revised.Instructions.-.ENC.pdf) .
   </p>
 </object>
