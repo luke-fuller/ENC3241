@@ -5,4 +5,9 @@ title: Cover Letter
 
 # Cover Letter
 
-[ProposalSpotlightRevised.docx](https://github.com/user-attachments/files/26904177/ProposalSpotlightRevised.docx)
+<embed
+  src="[https://example.com/test.pdf](https://github.com/luke-fuller/ENC3241/blob/main/Revised%20Instructions%20-%20ENC.pdf)"
+  type="application/pdf"
+  width="100%"
+  height="500px"
+/>
