@@ -6,7 +6,7 @@ title: Instructions
 # Instructions
 
 <object
-  data="[Revised Instructions - ENC.pdf](https://github.com/user-attachments/files/26905263/Revised.Instructions.-.ENC.pdf)"
+  data="[Revised Instructions - ENC.pdf](https://luke-fuller.github.io/ENC3241/Revised%20Cover%20Letter%20-%20L.Fuller.pdf)"
   type="application/pdf"
   width="100%"
   height="750px"
