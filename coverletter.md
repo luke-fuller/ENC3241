@@ -5,9 +5,16 @@ title: Cover Letter
 
 # Cover Letter
 
-<embed
-  src="[https://example.com/test.pdf](https://github.com/luke-fuller/ENC3241/blob/main/Revised%20Instructions%20-%20ENC.pdf)"
+<div style="height:750px;">
+<object
+  data="https://luke-fuller.github.io/ENC3241/Revised%20Cover%20Letter%20-%20L.Fuller.pdf"
   type="application/pdf"
   width="100%"
-  height="500px"
-/>
+  height="100%"
+>
+  <p>
+    Your browser does not support PDFs. [Download the PDF](https://luke-fuller.github.io/ENC3241/Revised%20Cover%20Letter%20-%20L.Fuller.pdf).
+  </p>
+</object>
+</div>
+
