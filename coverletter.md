@@ -5,4 +5,4 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+[ProposalSpotlightRevised.docx](https://github.com/user-attachments/files/26904177/ProposalSpotlightRevised.docx)
